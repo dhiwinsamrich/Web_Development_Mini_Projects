@@ -102,14 +102,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🤝 **Connect with Us**
 
 - ![GitHub Logo](https://img.shields.io/badge/GitHub-dhiwinsamrich-black.svg) **[GitHub](https://github.com/dhiwinsamrich)**
-- ![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-YourName-blue.svg) **[LinkedIn](https://www.linkedin.com/in/yourprofile)**
-- ![Twitter Logo](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2.svg) **[Twitter](https://twitter.com/yourtwitterhandle)**
+- ![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-dhiwinsamrich-blue.svg) **[LinkedIn](https://www.linkedin.com/in/dhiwin-samrich-9167-jerome)**
 
----
-
-![Footer](https://www.example.com/footer-image.png)  
-*(Replace the link with an actual image URL for a visually engaging footer.)*
-
----
-
-Feel free to replace placeholders with actual links and update the **Projects** section as you add projects to the repository.
