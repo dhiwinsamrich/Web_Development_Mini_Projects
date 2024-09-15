@@ -60,6 +60,15 @@ git clone https://github.com/dhiwinsamrich/Web_Development_Mini_Projects.git
 1. Open `index.html` in your browser.  
 2. Use arrow keys to move tiles and combine them.  
 
+### 📅 **2. Age Calculator**  
+A simple tool to calculate your exact age in years, months, and days based on your birthdate.
+
+**Instructions:**  
+1. Enter your birthdate.  
+2. Click "Calculate Age" to get the result.  
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
