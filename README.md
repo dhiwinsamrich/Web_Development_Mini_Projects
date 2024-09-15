@@ -1,12 +1,24 @@
-# 🌐 **Web Development Mini Projects** 
+<h1 align = "center">
+🌐 Web Development Mini Projects 
+</h1>
 
-![HTML](https://img.shields.io/badge/HTML-5-orange.svg) ![CSS](https://img.shields.io/badge/CSS-3-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)
+<p align = "center">
+    
+<img src = "https://img.shields.io/badge/HTML-5-orange.svg"/>
+<img src= "https://img.shields.io/badge/CSS-3-blue.svg"/>
+<img src = "https://img.shields.io/badge/JavaScript-ES6-yellow.svg"/> 
+<img src = "https://img.shields.io/badge/GitHub-Repository-black.svg"/>
+    
+</p>
 
-![image](https://github.com/user-attachments/assets/166ac6bb-ba5a-4a53-beb6-2bdce0bbebbc)
+<p align = "center" width = 100>
+<img src = "https://wallpapercave.com/wp/wp6350578.jpg"/>
+</p>
 
 
-
+<p align = "center">
 Welcome to the **Web Development Mini Projects** repository! 🚀 This collection features various web development projects showcasing HTML, CSS, and JavaScript, including interactive games and engaging UI components. Perfect for learning, inspiration, or showcasing your web development skills.
+</p>
 
 ---
 
@@ -94,8 +106,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **[Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)**
 - **[Font Awesome](https://fontawesome.com/)**
 - **[JavaScript.info](https://javascript.info/)**
-
-*(Add more resources or links relevant to web development.)*
 
 ---
 
