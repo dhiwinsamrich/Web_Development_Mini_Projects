@@ -69,6 +69,15 @@ A simple tool to calculate your exact age in years, months, and days based on yo
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🛒 **3. Amazon Prime Login Page Clone**  
+A replica of the Amazon Prime login page built with HTML and CSS, mimicking the look and feel of the original.
+
+**Features:**
+- Accurate layout and design of the original Amazon Prime login page.
+- Fully responsive, adapting to various screen sizes.
+
+**Tech Stack:** HTML, CSS
+
 ---
 
 ## 🌟 **Key Features**
