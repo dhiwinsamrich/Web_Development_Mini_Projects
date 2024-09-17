@@ -78,6 +78,15 @@ A replica of the Amazon Prime login page built with HTML and CSS, mimicking the 
 
 **Tech Stack:** HTML, CSS
 
+### 🚗 **4. Animated Car**  
+An animated car designed using HTML and CSS to demonstrate smooth movement and keyframe animations.
+
+**Features:**
+- Smooth car movement with CSS keyframe animations.
+- Fully responsive and visually appealing.
+
+**Tech Stack:** HTML, CSS, JS
+
 ---
 
 ## 🌟 **Key Features**
