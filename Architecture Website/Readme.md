@@ -30,7 +30,7 @@ It is a simple static Architecture Website Template.
 - Download or clone the repository
 
 ```
-git clone https://github.com/dhiwinsamrich/Web-dev-mini-projects.git
+https://github.com/dhiwinsamrich/Web_Development_Mini_Projects.git
 ```
 
 - Go to the directory
