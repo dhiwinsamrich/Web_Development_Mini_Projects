@@ -87,6 +87,16 @@ An animated car designed using HTML and CSS to demonstrate smooth movement and k
 
 **Tech Stack:** HTML, CSS, JS
 
+### 🏛️ **5. Architecture Website**  
+A beautifully designed website showcasing architectural projects, built using HTML, CSS, and JavaScript.
+
+**Features:**
+- **Elegant Design:** Highlights architectural projects with a clean and professional layout.
+- **Responsive:** Adapts to different devices and screen sizes for an optimal viewing experience.
+- **Interactive Elements:** Engaging UI elements for enhanced user interaction.
+
+**Tech Stack:** HTML, CSS.
+
 ---
 
 ## 🌟 **Key Features**
