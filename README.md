@@ -97,6 +97,16 @@ A beautifully designed website showcasing architectural projects, built using HT
 
 **Tech Stack:** HTML, CSS.
 
+### 🎨 **6. Art Gallery**  
+A visually appealing art gallery website showcasing various artwork, built with HTML, CSS, and JavaScript.
+
+**Features:**
+- Grid layout for displaying artwork.
+- Hover effects to highlight individual pieces.
+- Responsive design for seamless viewing across devices.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
