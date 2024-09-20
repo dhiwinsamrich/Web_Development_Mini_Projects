@@ -107,6 +107,16 @@ A visually appealing art gallery website showcasing various artwork, built with 
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🏢 **7. Brand Website**  
+A fully responsive, modern website template for showcasing a brand, designed with clean and professional UI/UX.
+
+**Features:**
+- Eye-catching landing page design with smooth scrolling.
+- Sections for services, testimonials, and contact information.
+- Mobile-friendly layout.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
