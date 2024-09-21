@@ -117,6 +117,19 @@ A fully responsive, modern website template for showcasing a brand, designed wit
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🎨 **8. Basic Background Generator**  
+A simple tool to generate random gradient backgrounds using HTML, CSS, and JavaScript.
+
+**Features:**
+- Generates random linear gradient backgrounds.
+- Displays the generated CSS code for easy copying.
+
+**Instructions:**  
+1. Click the "Generate Background" button to create a new gradient.
+2. Copy the generated CSS code to use in your own projects.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
