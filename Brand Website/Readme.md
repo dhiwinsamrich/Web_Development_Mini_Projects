@@ -6,7 +6,9 @@ HOMEPAGE
 ![homepage](images/homepage.png)
 
 BAND
-![homepage](images/about.png)
+<p>
+<img src = "images/about.png" alt="About">
+</p>
 
 TOUR
 ![homepage](images/tourDates.png)
