@@ -5,11 +5,6 @@ It is a multi pager Band Website with simple but userfriendly design.
 HOMEPAGE
 ![homepage](images/homepage.png)
 
-BAND
-<p>
-<img src = "images/about.png" alt="About">
-</p>
-
 TOUR
 ![homepage](images/tourDates.png)
 
