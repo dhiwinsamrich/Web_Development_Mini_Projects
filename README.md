@@ -130,6 +130,16 @@ A simple tool to generate random gradient backgrounds using HTML, CSS, and JavaS
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 📬 **7. Basic Contact Form**  
+A simple and responsive contact form built with HTML and CSS, allowing users to input and submit their contact details.
+
+**Features:**
+- Input fields for name, email, and message.
+- Clean and responsive design for all devices.
+- Basic validation for input fields.
+
+**Tech Stack:** HTML, CSS, JS.
+
 ---
 
 ## 🌟 **Key Features**
