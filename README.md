@@ -140,6 +140,16 @@ A simple and responsive contact form built with HTML and CSS, allowing users to 
 
 **Tech Stack:** HTML, CSS, JS.
 
+### 💼 **8. Basic Portfolio Website**  
+A simple and clean personal portfolio website to showcase your projects, skills, and contact information.
+
+**Features:**
+- Introduction section with a brief bio.
+- Projects section to highlight your work.
+- Contact form for easy communication.
+
+**Tech Stack:** HTML, CSS, JS.
+
 ---
 
 ## 🌟 **Key Features**
