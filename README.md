@@ -150,6 +150,15 @@ A simple and clean personal portfolio website to showcase your projects, skills,
 
 **Tech Stack:** HTML, CSS, JS.
 
+### 🔋 **9. Battery Indicator**  
+A simple web app that displays the current battery status of your device, including charging status and battery percentage.
+
+**Features:**
+- Real-time battery status updates.
+- Shows whether the device is charging and the remaining battery percentage.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
