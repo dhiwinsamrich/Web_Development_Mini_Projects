@@ -159,6 +159,16 @@ A simple web app that displays the current battery status of your device, includ
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🎲 **10. Blackjack Game**  
+A web-based Blackjack game built with HTML, CSS, and JavaScript, where users can play against the computer.
+
+**Features:**
+- Classic Blackjack rules with card dealing and scoring.
+- Play against the computer dealer.
+- Simple and intuitive UI for an enjoyable gameplay experience.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
