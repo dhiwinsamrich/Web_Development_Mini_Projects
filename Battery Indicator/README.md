@@ -24,7 +24,7 @@ git clone https://github.com/dhiwinsamrich/Web_Development_Mini_Projects.git
 
 #### Output/Screenshots
 
-![battery-indicator](https://github.com/Jagannath8/Web-dev-mini-projects/blob/battery/Battery%20Indicator/light.jpg)
-![battery-indicator](https://github.com/Jagannath8/Web-dev-mini-projects/blob/battery/Battery%20Indicator/dark.jpg)
+![battery-indicator](light.jpg)
+![battery-indicator](dark.jpg)
 
-Developed by: <a href="https://github.com/Jagannath8">Dhiwin Samrich</a>
+Developed by: <a href="https://github.com/dhiwinsamrich">Dhiwin Samrich</a>
