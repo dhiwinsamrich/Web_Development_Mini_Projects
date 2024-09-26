@@ -169,6 +169,16 @@ A web-based Blackjack game built with HTML, CSS, and JavaScript, where users can
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 📝 **11. Blog Application**  
+A simple web-based blog application that allows users to create, read, update, and delete blog posts.
+
+**Features:**
+- Create and publish new blog posts.
+- Edit and delete existing posts.
+- Responsive design for desktop and mobile views.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
