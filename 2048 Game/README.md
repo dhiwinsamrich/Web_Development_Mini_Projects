@@ -17,4 +17,4 @@ An easy 2048 Game on website where you can have fun!!
 
 # Screenshot
 
-![screenshot](https://github.com/Gyynnn/Web-dev-mini-projects/blob/2048game/2048%20Game/screenshot.PNG)
+![screenshot](screenshot.PNG)
