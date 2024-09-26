@@ -32,6 +32,3 @@ It&#39;s That Simple!!
 </p>
 <br><br>
 
-<p><img src="https://user-images.githubusercontent.com/67221487/124392353-ab6b0700-dd12-11eb-9093-b6309b08e2d5.png" alt="image">
-<br><br>
-<img src="https://user-images.githubusercontent.com/67221487/124392372-c2115e00-dd12-11eb-9743-9be785121fb4.png" alt="image"></p>
