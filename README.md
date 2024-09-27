@@ -179,6 +179,15 @@ A simple web-based blog application that allows users to create, read, update, a
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🎨 **12. Blur and Size Adjustment using CSS**  
+A simple web page demonstrating how to use CSS to apply blur effects and adjust the size of images or elements.
+
+**Features:**
+- Blur effect on images or content using CSS.
+- Dynamic size adjustment with responsive design.
+
+**Tech Stack:** HTML, CSS
+
 ---
 
 ## 🌟 **Key Features**
