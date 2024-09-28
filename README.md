@@ -188,6 +188,16 @@ A simple web page demonstrating how to use CSS to apply blur effects and adjust 
 
 **Tech Stack:** HTML, CSS
 
+### ⚖️ **13. BMI Calculator using Flask**  
+A web-based Body Mass Index (BMI) calculator built with Flask. Users can input their height and weight to get their BMI and health category.
+
+**Features:**
+- Calculates BMI based on user input (height and weight).
+- Categorizes BMI into health ranges (underweight, normal, overweight, etc.).
+- Simple and user-friendly interface.
+
+**Tech Stack:** Python, Flask, HTML, CSS
+
 ---
 
 ## 🌟 **Key Features**
