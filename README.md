@@ -198,6 +198,15 @@ A web-based Body Mass Index (BMI) calculator built with Flask. Users can input t
 
 **Tech Stack:** Python, Flask, HTML, CSS
 
+### ⚖️ **14. BMI Calculator JavaScript**  
+A web application that calculates Body Mass Index (BMI) based on user input of weight and height.
+
+**Features:**
+- Instant BMI calculation with clear output.
+- User-friendly interface for easy input.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
