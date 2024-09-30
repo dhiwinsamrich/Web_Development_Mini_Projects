@@ -207,6 +207,16 @@ A web application that calculates Body Mass Index (BMI) based on user input of w
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### ⚽ **15. Bouncing Balls**  
+A fun animation of bouncing balls created with HTML, CSS, and JavaScript. Watch colorful balls bounce around the screen in real time.
+
+**Features:**
+- Realistic bouncing ball physics.
+- Customizable number, size, and speed of balls.
+- Responsive and interactive animation.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
