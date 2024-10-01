@@ -217,6 +217,15 @@ A fun animation of bouncing balls created with HTML, CSS, and JavaScript. Watch 
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 💥 **16. Breaking Bad Characters**  
+A simple web app that displays information about characters from the TV show *Breaking Bad*, using data fetched from an API.
+
+**Features:**
+- Fetches and displays character details such as name, nickname, and occupation.
+- Clean and responsive design for easy navigation.
+
+**Tech Stack:** HTML, CSS, JavaScript (API Fetch)
+
 ---
 
 ## 🌟 **Key Features**
