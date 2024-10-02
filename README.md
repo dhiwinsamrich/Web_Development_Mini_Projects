@@ -226,6 +226,18 @@ A simple web app that displays information about characters from the TV show *Br
 
 **Tech Stack:** HTML, CSS, JavaScript (API Fetch)
 
+### 📸 **17. Browser Camera**  
+A web-based camera application that allows users to capture photos directly from their browser using their device's camera.
+
+**Features:**
+- Access the device's camera to capture images.
+- Simple and clean user interface.
+- Fully responsive, works on both desktop and mobile browsers.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+
+
 ---
 
 ## 🌟 **Key Features**
