@@ -236,6 +236,17 @@ A web-based camera application that allows users to capture photos directly from
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### ➕ **18. Calculator**  
+A basic calculator built with HTML, CSS, and JavaScript to perform simple arithmetic operations.
+
+**Features:**
+- Performs addition, subtraction, multiplication, and division.
+- Clean, user-friendly interface.
+- Responsive design for use on mobile and desktop devices.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+
 
 
 ---
