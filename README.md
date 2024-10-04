@@ -246,7 +246,18 @@ A basic calculator built with HTML, CSS, and JavaScript to perform simple arithm
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🐱 **19. Cat Generator App**  
+A fun app that generates random cat images with a simple click, using an external API.
 
+**Features:**
+- Fetches random cat images from an API.
+- Displays a new cat image every time the button is clicked.
+- Simple and interactive UI.
+
+**Instructions:**  
+1. Click the "Generate Cat" button to fetch a new random cat image.
+
+**Tech Stack:** HTML, CSS, JavaScript, API
 
 
 ---
