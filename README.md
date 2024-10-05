@@ -259,6 +259,17 @@ A fun app that generates random cat images with a simple click, using an externa
 
 **Tech Stack:** HTML, CSS, JavaScript, API
 
+### ♟️ **20. Chess Game**  
+A fully functional chess game built with HTML, CSS, and JavaScript. Play against the computer or another player, with all standard chess rules implemented.
+
+**Features:**
+- Two-player or player vs. AI mode.
+- Valid move detection and check/checkmate functionality.
+- Interactive drag-and-drop interface for moving pieces.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+
 
 ---
 
