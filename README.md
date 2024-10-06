@@ -269,7 +269,14 @@ A fully functional chess game built with HTML, CSS, and JavaScript. Play against
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🌐 **20. Chrome Logo Using CSS**  
+A creative recreation of the Google Chrome logo using only HTML and CSS, demonstrating the power of CSS shapes and animations.
 
+**Features:**
+- No images used—entire logo created with pure CSS.
+- Responsive design with smooth animations.
+
+**Tech Stack:** HTML, CSS
 
 ---
 
