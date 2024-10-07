@@ -278,6 +278,18 @@ A creative recreation of the Google Chrome logo using only HTML and CSS, demonst
 
 **Tech Stack:** HTML, CSS
 
+### 🤣 **22. Chuck Norris Joke**  
+A fun web app that fetches and displays random Chuck Norris jokes using an API.
+
+**Features:**
+- Fetches a random Chuck Norris joke with every click.
+- Simple, responsive UI for an enjoyable user experience.
+
+**Instructions:**  
+1. Click the "Get Joke" button to retrieve a new Chuck Norris joke.
+
+**Tech Stack:** HTML, CSS, JavaScript, Chuck Norris API
+
 ---
 
 ## 🌟 **Key Features**
