@@ -290,6 +290,17 @@ A fun web app that fetches and displays random Chuck Norris jokes using an API.
 
 **Tech Stack:** HTML, CSS, JavaScript, Chuck Norris API
 
+### 📝 **23. Classifier using JS**  
+A set of classifiers built using JavaScript to categorize text, language, and news articles.
+
+**Features:**
+- **Text Classifier:** Classifies input text into predefined categories.
+- **Language Classifier:** Detects and classifies the language of the given text.
+- **News Classifier:** Classifies news articles based on topics such as politics, sports, technology, etc.
+
+**Tech Stack:** JavaScript (API Fetch), HTML, CSS
+
+
 ---
 
 ## 🌟 **Key Features**
