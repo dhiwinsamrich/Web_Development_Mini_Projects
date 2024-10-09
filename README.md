@@ -300,6 +300,18 @@ A set of classifiers built using JavaScript to categorize text, language, and ne
 
 **Tech Stack:** JavaScript (API Fetch), HTML, CSS
 
+### 📅 **24. Classroom Scheduler Website**  
+A web application designed to manage and schedule classrooms efficiently.
+
+**Features:**
+- Schedule and book classrooms with ease.
+- View available time slots and classroom details.
+- Responsive design for both mobile and desktop users.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+
+
 
 ---
 
