@@ -310,7 +310,15 @@ A web application designed to manage and schedule classrooms efficiently.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🕒 **25. Clock**  
+A web-based clock application that includes both an analog and digital clock.
 
+**Features:**
+- **Analog Clock:** Displays the current time with moving hour, minute, and second hands.
+- **Digital Clock:** Shows the current time in a digital format (HH:MM:SS).
+- Responsive and visually appealing design.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 
 ---
