@@ -320,6 +320,17 @@ A web-based clock application that includes both an analog and digital clock.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### ⏱️ **26. Clock Stopwatch**  
+A functional digital clock and stopwatch built with HTML, CSS, and JavaScript.
+
+**Features:**
+- Displays real-time digital clock.
+- Stopwatch functionality with start, stop, and reset options.
+- Simple and clean user interface.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+
 
 ---
 
