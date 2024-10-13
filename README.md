@@ -330,7 +330,18 @@ A functional digital clock and stopwatch built with HTML, CSS, and JavaScript.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🎨 **27. Color Guessor**  
+An interactive game where players guess the correct color based on its RGB value. Fun and educational for learning about colors!
 
+**Features:**
+- Displays an RGB value, and the player must guess the matching color.
+- Multiple difficulty levels for added challenge.
+
+**Instructions:**  
+1. Choose the correct color from the given options based on the RGB value displayed.  
+2. Increase difficulty to make it more challenging.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
