@@ -343,6 +343,20 @@ An interactive game where players guess the correct color based on its RGB value
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 💰 **28. Compound Interest Calculator**  
+A simple web application that calculates compound interest based on user input for principal, rate, time, and compounding frequency.
+
+**Features:**
+- Calculate total amount and interest earned over time.
+- User-friendly input fields for easy calculation.
+- Responsive design for mobile and desktop use.
+
+**Instructions:**  
+1. Enter the principal, interest rate, time, and compounding frequency.  
+2. Click "Calculate" to see the result.  
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
