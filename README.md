@@ -357,6 +357,21 @@ A simple web application that calculates compound interest based on user input f
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🔴🟡 **29. Connect Four**  
+A classic Connect Four game built using HTML, CSS, and JavaScript. Challenge yourself or a friend by dropping discs into the grid to connect four in a row!
+
+**Features:**
+- Two-player gameplay.
+- Interactive UI with real-time disc placement.
+- Reset button to restart the game.
+
+**Instructions:**
+1. Open the game in your browser.
+2. Take turns dropping discs into the grid by clicking on a column.
+3. Connect four discs in a row to win!
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
