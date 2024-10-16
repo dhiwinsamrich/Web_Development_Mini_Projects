@@ -372,6 +372,16 @@ A classic Connect Four game built using HTML, CSS, and JavaScript. Challenge you
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🦠 **30. Corona Tracker**  
+A web-based COVID-19 tracker that displays real-time data on cases, recoveries, and deaths globally or by specific country.
+
+**Features:**
+- Real-time COVID-19 statistics (cases, recoveries, deaths).
+- Search for data by country or view global stats.
+- Responsive design for mobile and desktop users.
+
+**Tech Stack:** HTML, CSS, JavaScript (API integration for real-time data)
+
 ---
 
 ## 🌟 **Key Features**
