@@ -382,6 +382,21 @@ A web-based COVID-19 tracker that displays real-time data on cases, recoveries, 
 
 **Tech Stack:** HTML, CSS, JavaScript (API integration for real-time data)
 
+### ⏳ **31. CountDown Timer**  
+A simple and customizable countdown timer built with HTML, CSS, and JavaScript.
+
+**Features:**
+- Set a specific time to count down from.
+- Displays hours, minutes, and seconds in real-time.
+- Alerts when the time is up.
+
+**Instructions:**
+1. Set the time duration.  
+2. Start the timer and watch it count down.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+
 ---
 
 ## 🌟 **Key Features**
