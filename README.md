@@ -396,6 +396,15 @@ A simple and customizable countdown timer built with HTML, CSS, and JavaScript.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🔢 **32. Counter App**  
+A simple web-based counter app that allows users to increment, decrement, and reset a counter value.
+
+**Features:**
+- Increment and decrement the counter.
+- Reset functionality to set the counter back to zero.
+- Responsive and minimalist design.
+
+**Tech Stack:** HTML, CSS, JavaScript, NodeJS
 
 ---
 
