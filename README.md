@@ -406,6 +406,16 @@ A simple web-based counter app that allows users to increment, decrement, and re
 
 **Tech Stack:** HTML, CSS, JavaScript, NodeJS
 
+### 🦠 **33. Covid-19 Awareness Website**  
+A simple informational website designed to raise awareness about Covid-19, including preventive measures and safety guidelines.
+
+**Features:**
+- Displays up-to-date information about Covid-19 symptoms and prevention.
+- Includes sections on safety guidelines, precautions, and health resources.
+- Responsive design for both mobile and desktop users.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
