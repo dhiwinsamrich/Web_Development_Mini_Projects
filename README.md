@@ -416,6 +416,15 @@ A simple informational website designed to raise awareness about Covid-19, inclu
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🎨 **34. CSS Loading Animation D - Version 1**  
+A sleek and modern loading animation created purely with CSS.
+
+**Features:**
+- Smooth, minimalist animation ideal for enhancing user experience.
+- Fully customizable and lightweight, perfect for web projects.
+
+**Tech Stack:** CSS , HTML
+
 ---
 
 ## 🌟 **Key Features**
