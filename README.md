@@ -425,6 +425,16 @@ A sleek and modern loading animation created purely with CSS.
 
 **Tech Stack:** CSS , HTML
 
+### 🎚️ **35. Custom Range Slider**  
+An interactive and stylish range slider built with HTML, CSS, and JavaScript, designed for easy customization.
+
+**Features:**
+- Smooth sliding with visual feedback.
+- Customizable colors, labels, and range values.
+- Responsive and adaptable to various screen sizes.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
