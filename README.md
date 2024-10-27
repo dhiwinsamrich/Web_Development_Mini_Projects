@@ -435,6 +435,14 @@ An interactive and stylish range slider built with HTML, CSS, and JavaScript, de
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 📝 **36. Dark Mode ToDo List**  
+A minimalistic to-do list application with a dark mode feature for enhanced readability and user comfort.
+
+**Features:**
+- Add, edit, and delete tasks.
+- Toggle between light and dark mode for a comfortable viewing experience.
+
+**Tech Stack:** HTML, CSS, JavaScript, NodeJS
 ---
 
 ## 🌟 **Key Features**
