@@ -443,6 +443,17 @@ A minimalistic to-do list application with a dark mode feature for enhanced read
 - Toggle between light and dark mode for a comfortable viewing experience.
 
 **Tech Stack:** HTML, CSS, JavaScript, NodeJS
+
+### 🎲 **37. Dice Game**  
+A simple, interactive dice game built with HTML, CSS, and JavaScript where players roll dice to compete for the highest score.
+
+**Features:**
+- Random dice roll feature with visuals.
+- Two-player setup to play against a friend.
+- Score tracking for each round.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
