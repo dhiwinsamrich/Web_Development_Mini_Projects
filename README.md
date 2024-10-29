@@ -454,6 +454,15 @@ A simple, interactive dice game built with HTML, CSS, and JavaScript where playe
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 📖 **38. Dictionary**  
+A simple dictionary app that fetches word definitions, synonyms, and examples using an API.
+
+**Features:**
+- Provides definitions, synonyms, and usage examples for any word.
+- Clean interface for easy lookup.
+
+**Tech Stack:** HTML, CSS, JavaScript, Dictionary API
+
 ---
 
 ## 🌟 **Key Features**
