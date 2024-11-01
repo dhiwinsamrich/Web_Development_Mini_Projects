@@ -463,6 +463,14 @@ A simple dictionary app that fetches word definitions, synonyms, and examples us
 
 **Tech Stack:** HTML, CSS, JavaScript, Dictionary API
 
+### ⏰ **39. Digital JavaScript Clock**  
+A functional digital clock built with JavaScript, displaying the current time in hours, minutes, and seconds.
+
+**Features:**
+- Real-time digital clock with dynamic time updates.
+- Simple and clean interface, styled with CSS.
+
+**Tech Stack:** HTML, CSS, JavaScript
 ---
 
 ## 🌟 **Key Features**
