@@ -471,6 +471,17 @@ A functional digital clock built with JavaScript, displaying the current time in
 - Simple and clean interface, styled with CSS.
 
 **Tech Stack:** HTML, CSS, JavaScript
+
+### 🎢 **40. Double Vertical Slider**  
+An interactive image slider with dual vertical sliding panels, creating a dynamic scrolling effect.
+
+**Features:**
+- Dual panels that slide vertically in opposite directions.
+- Smooth transitions for an engaging user experience.
+- Fully responsive layout.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
