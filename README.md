@@ -482,6 +482,15 @@ An interactive image slider with dual vertical sliding panels, creating a dynami
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🥁 **41. Drum - Light Mode**  
+An interactive virtual drum kit in light mode. Tap or click to play different drum sounds, making it fun and easy to create beats!
+
+**Features:**
+- Multiple drum sounds triggered by keyboard keys or clicks.
+- Minimalistic light mode design for a clean and bright look.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
