@@ -491,6 +491,18 @@ An interactive virtual drum kit in light mode. Tap or click to play different dr
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🥁 **42. Drum Kit Web Application**  
+An interactive web application that lets users play drum sounds using keyboard keys or mouse clicks.
+
+**Features:**
+- Play different drum sounds by pressing specific keys.
+- Responsive and engaging visuals that mimic a real drum kit.
+
+**Instructions:**  
+1. Open the application and press designated keys (or click on drums) to hear sounds.
+2. Experiment with various keys to play a rhythm.
+
+**Tech Stack:** HTML, CSS, JavaScript
 ---
 
 ## 🌟 **Key Features**
