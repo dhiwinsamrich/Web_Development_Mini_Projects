@@ -503,6 +503,16 @@ An interactive web application that lets users play drum sounds using keyboard k
 2. Experiment with various keys to play a rhythm.
 
 **Tech Stack:** HTML, CSS, JavaScript
+
+### 😄 **43. Emoji Search App**  
+A simple app to search and copy emojis by name or keyword, making it easy to find the perfect emoji for any message.
+
+**Features:**
+- Real-time search: Instantly find emojis as you type.
+- Copy to clipboard: Click an emoji to copy it for easy pasting.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
