@@ -513,6 +513,15 @@ A simple app to search and copy emojis by name or keyword, making it easy to fin
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 💱 **44. Exchange Rate Calculator**  
+A web app to calculate exchange rates between different currencies in real-time.
+
+**Features:**
+- Select currencies and get the current exchange rate.
+- Automatically updates rates to ensure accuracy.
+
+**Tech Stack:** HTML, CSS, JavaScript (with API integration)
+
 ---
 
 ## 🌟 **Key Features**
