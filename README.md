@@ -522,6 +522,16 @@ A web app to calculate exchange rates between different currencies in real-time.
 
 **Tech Stack:** HTML, CSS, JavaScript (with API integration)
 
+### 🔍 **45. Expand Button**  
+A stylish button that expands to reveal more content when clicked, perfect for modern UI/UX designs.
+
+**Features:**
+- Smooth animation for expanding and collapsing.
+- Responsive design, adapting well to different screen sizes.
+- Customizable styles to fit various themes.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
