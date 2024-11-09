@@ -17,7 +17,7 @@
 git clone https://github.com/dhiwinsamrich/Web_Development_Mini_Projects.git
 ```
 <h3>Output</h3>
-![FaceBook](image.png)
+<img src = "./image.png">
 
 - Go to the directory
 - Run the index.html file
