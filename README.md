@@ -532,6 +532,15 @@ A stylish button that expands to reveal more content when clicked, perfect for m
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 📘 **46. Facebook Logo**  
+A recreation of the classic Facebook logo using only HTML and CSS.
+
+**Features:**
+- Precise design to resemble the official Facebook logo.
+- Simple and responsive structure for web use.
+
+**Tech Stack:** HTML, CSS
+
 ---
 
 ## 🌟 **Key Features**
