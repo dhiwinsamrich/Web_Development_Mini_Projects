@@ -541,6 +541,16 @@ A recreation of the classic Facebook logo using only HTML and CSS.
 
 **Tech Stack:** HTML, CSS
 
+### ❓ **47. FAQ Application**  
+A simple FAQ (Frequently Asked Questions) application that allows users to expand and collapse answers to common questions.
+
+**Features:**
+- Expandable sections to reveal answers.
+- Clean and minimal design for easy readability.
+- Responsive layout for use on any device.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
