@@ -551,6 +551,16 @@ A simple FAQ (Frequently Asked Questions) application that allows users to expan
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🌐 **48. Fetch API using React App**  
+A React application that demonstrates fetching and displaying data from an API using JavaScript's Fetch API.
+
+**Features:**
+- Fetches data from a public API and displays it dynamically.
+- Simple, clean UI to showcase data retrieval and rendering.
+- Error handling for smoother user experience.
+
+**Tech Stack:** React, JavaScript, Fetch API
+
 ---
 
 ## 🌟 **Key Features**
