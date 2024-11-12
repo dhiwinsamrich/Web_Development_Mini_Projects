@@ -561,6 +561,15 @@ A React application that demonstrates fetching and displaying data from an API u
 
 **Tech Stack:** React, JavaScript, Fetch API
 
+### 🗜️ **49. File Zipper**  
+A utility tool to compress multiple files into a single ZIP file, making file storage and sharing easier.
+
+**Features:**
+- Compress multiple files into a single ZIP archive.
+- Simple interface for selecting files and creating compressed archives.
+
+**Tech Stack:** HTML , CSS , JavaScript , php 
+
 ---
 
 ## 🌟 **Key Features**
