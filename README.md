@@ -570,6 +570,16 @@ A utility tool to compress multiple files into a single ZIP file, making file st
 
 **Tech Stack:** HTML , CSS , JavaScript , php 
 
+### 📰 **50. Flask News Project**  
+A web application that displays the latest news articles using the Flask framework. Integrates with a news API to fetch and display current headlines.
+
+**Features:**
+- **Live News Updates:** Automatically pulls in the latest news articles.
+- **Category Filtering:** View news by categories such as technology, sports, and business.
+- **User-Friendly Interface:** Simple and clean design for easy navigation.
+
+**Tech Stack:** Flask, HTML, CSS, JavaScript, News API
+
 ---
 
 ## 🌟 **Key Features**
