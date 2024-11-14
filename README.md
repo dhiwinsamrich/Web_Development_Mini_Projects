@@ -580,6 +580,16 @@ A web application that displays the latest news articles using the Flask framewo
 
 **Tech Stack:** Flask, HTML, CSS, JavaScript, News API
 
+### 🍲 **51. Food Site**  
+A simple, visually appealing website template for a food business, featuring sections for menu, services, and contact information.
+
+**Features:**
+- Attractive layout for showcasing food items.
+- Responsive design suitable for all devices.
+- Sections for menu, services, and contact info.
+
+**Tech Stack:** HTML, CSS
+
 ---
 
 ## 🌟 **Key Features**
