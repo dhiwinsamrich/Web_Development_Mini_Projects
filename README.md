@@ -590,6 +590,15 @@ A simple, visually appealing website template for a food business, featuring sec
 
 **Tech Stack:** HTML, CSS
 
+### 🔍 **52. GitHub Profile Finder**  
+A web application that allows users to search for GitHub profiles by username and view key details like repositories, followers, and bio.
+
+**Features:**
+- Search any GitHub username and retrieve profile information.
+- Displays profile picture, bio, number of repositories, followers, and more.
+
+**Tech Stack:** HTML, CSS, JavaScript, GitHub API
+
 ---
 
 ## 🌟 **Key Features**
