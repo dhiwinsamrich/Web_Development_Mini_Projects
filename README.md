@@ -599,6 +599,16 @@ A web application that allows users to search for GitHub profiles by username an
 
 **Tech Stack:** HTML, CSS, JavaScript, GitHub API
 
+### ✨ **53. Glass-Morphism Form**  
+A sleek and modern form design featuring the popular **glass-morphism** effect, built using HTML and CSS.
+
+**Features:**
+- Eye-catching frosted glass effect for a premium design.  
+- Fully responsive layout suitable for all screen sizes.  
+- Clean and interactive input fields for an enhanced user experience.
+
+**Tech Stack:** HTML, CSS 
+
 ---
 
 ## 🌟 **Key Features**
