@@ -609,6 +609,16 @@ A sleek and modern form design featuring the popular **glass-morphism** effect, 
 
 **Tech Stack:** HTML, CSS 
 
+### 🌟 **54. Good Vibes Form**  
+An aesthetically pleasing and user-friendly form designed to spread positivity and collect user feedback or messages.
+
+**Features:**
+- Vibrant design with a positive theme.  
+- Clean and simple form layout for seamless user interaction.  
+- Fully responsive and mobile-friendly.  
+
+**Tech Stack:** HTML, CSS 
+
 ---
 
 ## 🌟 **Key Features**
