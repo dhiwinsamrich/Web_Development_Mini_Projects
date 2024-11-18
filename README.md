@@ -619,6 +619,16 @@ An aesthetically pleasing and user-friendly form designed to spread positivity a
 
 **Tech Stack:** HTML, CSS 
 
+### 🌐 **55. Google.com Page**  
+A simple clone of the iconic Google homepage, designed using HTML and CSS to replicate its clean and minimalistic style.  
+
+**Features:**  
+- Search bar with placeholder text for a realistic look.  
+- Accurate styling to match the original Google homepage.  
+- Fully responsive for desktop and mobile screens.  
+
+**Tech Stack:** HTML, CSS  
+
 ---
 
 ## 🌟 **Key Features**
