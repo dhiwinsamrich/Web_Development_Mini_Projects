@@ -629,6 +629,23 @@ A simple clone of the iconic Google homepage, designed using HTML and CSS to rep
 
 **Tech Stack:** HTML, CSS  
 
+### 🖼️ **56. Image Finder App**  
+A web application that allows users to search and explore images based on keywords, powered by an image API.
+
+**Features:**  
+- Real-time image search functionality.  
+- Infinite scrolling for seamless browsing.  
+- Responsive design for optimal viewing on all devices.  
+
+**Tech Stack:** HTML, CSS, JavaScript, API Integration  
+
+**Instructions:**  
+1. Enter a keyword in the search bar.  
+2. Browse the results displayed in a visually appealing grid.  
+
+**Use Case:**  
+Perfect for discovering inspiration, finding stock photos, or exploring themed images effortlessly.  
+
 ---
 
 ## 🌟 **Key Features**
