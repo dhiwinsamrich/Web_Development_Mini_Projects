@@ -646,6 +646,16 @@ A web application that allows users to search and explore images based on keywor
 **Use Case:**  
 Perfect for discovering inspiration, finding stock photos, or exploring themed images effortlessly.  
 
+### 📸 **57. Instagram Clone**  
+A clone of Instagram’s interface, built using HTML, CSS, and JavaScript, replicating the basic features of the popular social media platform.
+
+**Features:**
+- Simple post layout with images and text.
+- User-friendly interface and responsive design.
+
+**Tech Stack:** HTML, CSS, JavaScript, ReactJS, NodeJS
+
+
 ---
 
 ## 🌟 **Key Features**
