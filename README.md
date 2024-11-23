@@ -655,6 +655,16 @@ A clone of Instagram’s interface, built using HTML, CSS, and JavaScript, repli
 
 **Tech Stack:** HTML, CSS, JavaScript, ReactJS, NodeJS
 
+### 💸 **58. Interactive Pricing Component**  
+A dynamic pricing component with sliders and toggle switches to display pricing plans interactively.
+
+**Features:**  
+- Real-time updates with a slider to select pricing tiers.  
+- Toggle between monthly and yearly billing options.  
+- Fully responsive design for seamless use on all devices.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
 
 ---
 
