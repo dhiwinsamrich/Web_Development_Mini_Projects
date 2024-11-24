@@ -665,6 +665,14 @@ A dynamic pricing component with sliders and toggle switches to display pricing 
 
 **Tech Stack:** HTML, CSS, JavaScript  
 
+### 🔘 **59. JS Button App**  
+A dynamic web application featuring interactive buttons created using JavaScript.
+
+**Features:**
+- Multiple button styles with interactive animations.  
+- Event-driven functionality for responsive user interactions.  
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
