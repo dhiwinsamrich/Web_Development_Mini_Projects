@@ -674,6 +674,16 @@ A dynamic web application featuring interactive buttons created using JavaScript
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🦖 **60. JS Dino Jump Game**  
+A browser-based clone of the popular Google Dino game, built using HTML, CSS, and JavaScript. Avoid obstacles and jump to survive!
+
+**Features:**
+- Classic Dino game experience with smooth controls.
+- Responsive design for mobile and desktop play.
+
+**Tech Stack:** HTML, CSS, JavaScript
+---
+
 ---
 
 ## 🌟 **Key Features**
