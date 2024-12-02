@@ -682,7 +682,16 @@ A browser-based clone of the popular Google Dino game, built using HTML, CSS, an
 - Responsive design for mobile and desktop play.
 
 **Tech Stack:** HTML, CSS, JavaScript
----
+
+### ✅ **61. Jira Clone - ToDo List**  
+A simple Jira clone for managing tasks, built using HTML, CSS, and JavaScript. Create and manage your to-do list with an intuitive interface.
+
+**Features:**
+- Add, edit, and delete tasks.
+- Organize tasks by priority and status.
+- Clean and simple UI.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
