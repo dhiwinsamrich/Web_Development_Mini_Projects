@@ -693,6 +693,16 @@ A simple Jira clone for managing tasks, built using HTML, CSS, and JavaScript. C
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🌐 **62. Landing Page - React JS**  
+A modern, responsive landing page built with React.js, designed for showcasing products, services, or portfolios.
+
+**Features:**
+- Dynamic and interactive UI components.  
+- Fully responsive design for mobile, tablet, and desktop.  
+- Clean, modular React code for easy customization.
+
+**Tech Stack:** React.js, CSS, JSX, HTML
+
 ---
 
 ## 🌟 **Key Features**
