@@ -703,6 +703,15 @@ A modern, responsive landing page built with React.js, designed for showcasing p
 
 **Tech Stack:** React.js, CSS, JSX, HTML
 
+### 🎨 **63. Magic Color Changer**  
+A fun web app that changes the background color randomly with each click, providing an interactive experience.
+
+**Features:**
+- Click anywhere to change the background color.
+- Randomly selects colors for a dynamic effect.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
