@@ -712,6 +712,21 @@ A fun web app that changes the background color randomly with each click, provid
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🧠 **64. Memory Card Game**  
+A fun and interactive memory-matching game built using HTML, CSS, and JavaScript.
+
+**Features:**
+- Flip and match pairs of cards to test and improve memory skills.
+- Dynamic gameplay with randomized card positions.
+- Stylish design and smooth animations for an engaging experience.
+
+**Instructions:**
+1. Flip two cards to find matching pairs.  
+2. Continue until all pairs are matched.  
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+
 ---
 
 ## 🌟 **Key Features**
