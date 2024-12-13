@@ -726,6 +726,19 @@ A fun and interactive memory-matching game built using HTML, CSS, and JavaScript
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🎥 **65. Movie Search App**  
+A dynamic web application that allows users to search for movies and view detailed information.
+
+**Features:**
+- Search for movies by title.  
+- Displays details like title, release date, rating, and description.  
+- Interactive and user-friendly design.
+
+**Tech Stack:** HTML, CSS, JavaScript (with APIs for movie data)
+
+**Instructions:**  
+1. Enter the movie title in the search bar.  
+2. View detailed information about the movie.
 
 ---
 
