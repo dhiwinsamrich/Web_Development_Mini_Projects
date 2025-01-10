@@ -740,6 +740,19 @@ A dynamic web application that allows users to search for movies and view detail
 1. Enter the movie title in the search bar.  
 2. View detailed information about the movie.
 
+### 🍭 **66. Museum of Candies**  
+A vibrant and interactive webpage designed to resemble a candy-themed museum. This project highlights colorful layouts, fun animations, and an engaging user interface.
+
+**Features:**
+- Eye-catching design with candy-inspired colors and themes.  
+- Interactive elements for a playful user experience.  
+- Fully responsive layout suitable for all devices.  
+
+**Tech Stack:** HTML, CSS, JavaScript  
+---
+
+
+
 ---
 
 ## 🌟 **Key Features**
