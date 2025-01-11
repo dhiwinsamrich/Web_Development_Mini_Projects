@@ -749,9 +749,16 @@ A vibrant and interactive webpage designed to resemble a candy-themed museum. Th
 - Fully responsive layout suitable for all devices.  
 
 **Tech Stack:** HTML, CSS, JavaScript  
----
 
+### 🏋️ **67. MyGYM Website**  
+A modern and fully responsive website for a gym, designed to showcase services, membership plans, and fitness programs.
 
+**Features:**
+- Attractive landing page with gym highlights.
+- Sections for services, pricing, testimonials, and contact form.
+- Fully responsive design for seamless browsing on any device.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
