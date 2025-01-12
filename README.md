@@ -760,6 +760,16 @@ A modern and fully responsive website for a gym, designed to showcase services, 
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🍽️ **68. Online Store - Meals**  
+An interactive web application showcasing a simple online store for ordering meals. Users can browse a menu, add items to their cart, and view the total price.
+
+**Features:**
+- **Dynamic Menu:** Display a variety of meals with descriptions and prices.
+- **Cart Functionality:** Add, update, and remove meals from the cart.
+- **Responsive Design:** Optimized for mobile and desktop devices.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
 ---
 
 ## 🌟 **Key Features**
