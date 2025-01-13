@@ -770,6 +770,16 @@ An interactive web application showcasing a simple online store for ordering mea
 
 **Tech Stack:** HTML, CSS, JavaScript  
 
+### ✨ **69. Neon Light**  
+A visually appealing project that demonstrates glowing neon light effects using HTML and CSS. Perfect for showcasing modern UI design concepts.
+
+**Features:**
+- Stunning neon text and button effects.
+- Fully responsive design for all screen sizes.
+- Customizable colors and glow intensity.
+
+**Tech Stack:** HTML, CSS
+
 ---
 
 ## 🌟 **Key Features**
