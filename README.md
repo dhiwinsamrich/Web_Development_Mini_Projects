@@ -780,6 +780,16 @@ A visually appealing project that demonstrates glowing neon light effects using 
 
 **Tech Stack:** HTML, CSS
 
+### 🔢 **70. Neumorphism Calculator D - Version 1**  
+A visually appealing calculator designed with the modern **neumorphism** UI style, combining sleek aesthetics with functionality.
+
+**Features:**
+- **Neumorphism Design:** Soft shadows and highlights create a 3D look for buttons and displays.  
+- **Functional Calculator:** Perform basic arithmetic operations like addition, subtraction, multiplication, and division.  
+- **Responsive Layout:** Optimized for desktop and mobile devices.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
