@@ -790,6 +790,17 @@ A visually appealing calculator designed with the modern **neumorphism** UI styl
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 📰 **71. News App**  
+A dynamic web application to fetch and display the latest news from various categories using a news API.
+
+**Features:**
+- Browse news by category (e.g., Sports, Technology, Business, etc.).
+- Search functionality for specific topics or keywords.
+- Responsive design for seamless use on desktop and mobile.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+**API Used:** News API (or any other news data provider)
+
 ---
 
 ## 🌟 **Key Features**
