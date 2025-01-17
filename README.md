@@ -801,6 +801,16 @@ A dynamic web application to fetch and display the latest news from various cate
 **Tech Stack:** HTML, CSS, JavaScript  
 **API Used:** News API (or any other news data provider)
 
+### 📝 **72. Notes Keeping Website**  
+A simple and intuitive website for creating, organizing, and managing personal notes.
+
+**Features:**  
+- Add, edit, and delete notes seamlessly.  
+- Responsive design for both desktop and mobile devices.  
+- Store notes locally in the browser using local storage.  
+
+**Tech Stack:** HTML, CSS, JavaScript 
+
 ---
 
 ## 🌟 **Key Features**
