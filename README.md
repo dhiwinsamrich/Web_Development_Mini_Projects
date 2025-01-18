@@ -811,6 +811,16 @@ A simple and intuitive website for creating, organizing, and managing personal n
 
 **Tech Stack:** HTML, CSS, JavaScript 
 
+### 🎓 **73. Online Quiz Portal**  
+A dynamic web-based quiz platform where users can test their knowledge through various questions.
+
+**Features:**
+- Interactive and user-friendly interface.  
+- Multiple-choice questions with instant feedback.  
+- Tracks scores and displays results at the end.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
