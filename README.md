@@ -821,6 +821,16 @@ A dynamic web-based quiz platform where users can test their knowledge through v
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🌄 **74. Parallax Website**  
+A visually stunning website that uses the parallax scrolling effect to create an immersive user experience.
+
+**Features:**
+- Smooth scrolling with layered parallax effects.  
+- Fully responsive design, ensuring compatibility across devices.  
+- Beautiful visuals for an engaging and dynamic interface.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
 ---
 
 ## 🌟 **Key Features**
