@@ -831,6 +831,16 @@ A visually stunning website that uses the parallax scrolling effect to create an
 
 **Tech Stack:** HTML, CSS, JavaScript  
 
+### 🔒 **75. Password Generator**  
+A web application to generate secure and customizable passwords based on user preferences.
+
+**Features:**
+- Choose password length and include/exclude numbers, symbols, uppercase, and lowercase letters.
+- Generates strong and random passwords for enhanced security.
+- Clean and user-friendly interface.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
