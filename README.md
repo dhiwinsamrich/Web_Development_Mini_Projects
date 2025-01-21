@@ -841,6 +841,16 @@ A web application to generate secure and customizable passwords based on user pr
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🔒 **76. Password Strength Meter**  
+A web application that checks and displays the strength of a password in real-time.  
+
+**Features:**  
+- Validates password strength based on length, use of numbers, symbols, and uppercase letters.  
+- Provides real-time feedback with visual indicators (e.g., weak, moderate, strong).  
+- User-friendly interface for better password creation.  
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
