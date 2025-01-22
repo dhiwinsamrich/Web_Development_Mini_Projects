@@ -851,6 +851,16 @@ A web application that checks and displays the strength of a password in real-ti
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 💳 **77. Payment Integration**  
+A project demonstrating seamless payment gateway integration using modern web technologies.
+
+**Features:**
+- Secure and user-friendly payment processing.  
+- Integration with popular payment gateways (e.g., Stripe, PayPal).  
+- Responsive design for smooth transactions on all devices.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
 ---
 
 ## 🌟 **Key Features**
