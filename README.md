@@ -861,6 +861,16 @@ A project demonstrating seamless payment gateway integration using modern web te
 
 **Tech Stack:** HTML, CSS, JavaScript  
 
+### ✍️ **78. Personal Blog Website**  
+A simple and elegant personal blog website built with HTML, CSS, and JavaScript to showcase articles, stories, and posts.
+
+**Features:**  
+- Clean and modern design for better readability.  
+- Responsive layout for optimal viewing on all devices.  
+- Includes sections for an about page, blog posts, and a contact form.  
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
