@@ -871,6 +871,21 @@ A simple and elegant personal blog website built with HTML, CSS, and JavaScript 
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 🖼️ **79. Photo Editor**  
+A web-based photo editor with basic editing tools to enhance and customize images.
+
+**Features:**
+- Adjust brightness, contrast, and saturation.  
+- Apply filters like grayscale, sepia, and blur.  
+- Crop, rotate, and resize images with ease.  
+
+**Tech Stack:** HTML, CSS, JavaScript, php.
+
+**Instructions:**  
+1. Upload an image using the upload button.  
+2. Apply desired edits using the available tools.  
+3. Save the edited image directly to your device.
+
 ---
 
 ## 🌟 **Key Features**
