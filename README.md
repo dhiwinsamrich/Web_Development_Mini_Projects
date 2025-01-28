@@ -886,6 +886,16 @@ A web-based photo editor with basic editing tools to enhance and customize image
 2. Apply desired edits using the available tools.  
 3. Save the edited image directly to your device.
 
+### 🛍️ **80. Product Landing Page**  
+A visually appealing and responsive product landing page designed to showcase a product and engage users.
+
+**Features:**
+- Attractive hero section with call-to-action buttons.
+- Responsive design compatible with all devices.
+- Product feature highlights and pricing information.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
