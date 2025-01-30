@@ -896,6 +896,20 @@ A visually appealing and responsive product landing page designed to showcase a 
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 📱 **81. QR Code Generator**  
+A simple and user-friendly web application to generate QR codes from text or URLs.
+
+**Features:**
+- Generate QR codes instantly for text or website links.
+- Download QR codes as images.
+- Clean and responsive user interface.
+
+**Instructions:**  
+1. Enter text or a URL in the input field.  
+2. Click the "Generate" button to create the QR code.  
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 ---
 
 ## 🌟 **Key Features**
