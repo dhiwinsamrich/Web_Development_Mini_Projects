@@ -910,6 +910,20 @@ A simple and user-friendly web application to generate QR codes from text or URL
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+### 📝 **82. Quote Generator**  
+A simple web application that displays random motivational and inspirational quotes at the click of a button.
+
+**Features:**
+- Generates random quotes from a predefined collection.
+- Clean and minimalistic user interface.
+- Copy feature to easily share your favorite quotes.
+
+**Instructions:**  
+1. Click the "Generate Quote" button to display a new quote.  
+2. Optionally copy the quote to share or save.
+
+**Tech Stack:** HTML, CSS, JavaScript, API
+
 ---
 
 ## 🌟 **Key Features**
