@@ -11,4 +11,4 @@ The Random Quote Generator randomly displays a quote when a button is clicked by
 https://type.fit/api/quotes
 
 ## ScreenShot
-<img src="D:\Python Project\onprogress\Web dev\Quote Generator\ss.png" />
+<img src="ss.png" />
